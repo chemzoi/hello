@@ -1,4 +1,4 @@
 <?php
-echo "hello world !";
-echo "green";
+i=5;
+echo "i = $i";
 ?>
